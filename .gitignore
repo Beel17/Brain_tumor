@@ -11,3 +11,5 @@ __pycache__/
 
 # Ignore Streamlit secrets/configs
 .streamlit/secrets.toml
+# ignore the model
+.h5
